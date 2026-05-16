@@ -68,8 +68,6 @@ MSc Cybersecurity Engineering student with a BSc in Computer Engineering. I buil
 
 ## Activity
 
-![Profile views](https://komarev.com/ghpvc/?username=virtsudo&style=flat-square&color=grey)
-
 [![GitHub followers](https://img.shields.io/github/followers/virtsudo?style=flat-square&label=Followers)](https://github.com/virtsudo?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/virtsudo?style=flat-square&label=Total%20stars)](https://github.com/virtsudo?tab=repositories)
 
