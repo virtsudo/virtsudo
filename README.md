@@ -66,10 +66,12 @@ MSc Cybersecurity Engineering student with a BSc in Computer Engineering. I buil
 
 ---
 
-## GitHub stats
+## Activity
 
-![Bekhzod's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtsudo&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virtsudo&layout=compact&hide_border=true&theme=default)
+![Profile views](https://komarev.com/ghpvc/?username=virtsudo&style=flat-square&color=grey)
+
+[![GitHub followers](https://img.shields.io/github/followers/virtsudo?style=flat-square&label=Followers)](https://github.com/virtsudo?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/virtsudo?style=flat-square&label=Total%20stars)](https://github.com/virtsudo?tab=repositories)
 
 ---
 
