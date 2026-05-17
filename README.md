@@ -46,7 +46,7 @@ MSc Cybersecurity Engineering student with a BSc in Computer Engineering. I buil
 
 | Repo | What it is | Stack |
 |------|-----------|-------|
-| [dl-cybersecurity-labs](https://github.com/virtsudo/dl-cybersecurity-labs) *(coming soon)* | DL models for security: FFNN → CNN → RNN → NLP on bash command analysis | Python · PyTorch · Jupyter |
+| [dl-cybersecurity-labs](https://github.com/virtsudo/dl-cybersecurity-labs) | DL models for security: FFNN → CNN → RNN → NLP on bash command analysis | Python · PyTorch · Jupyter |
 | [arm-pacman-game](https://github.com/virtsudo/arm-pacman-game) | Pac-Man clone on ARM Cortex-M3 — bare metal, no OS, joystick input via GPIO | C · ARM Assembly · LPC1768 |
 | [rust-rescuing-surplus-food](https://github.com/virtsudo/rust-rescuing-surplus-food) | Cross-platform desktop app: Rust backend + React frontend bundled via Tauri v2 | Rust · Tauri · React · SQLite |
 | [reactjs-rescuing-surplus-food](https://github.com/virtsudo/reactjs-rescuing-surplus-food) | Full-stack SPA: surplus food reservations, session auth, real-time inventory | React · Node.js · Express · SQLite |
